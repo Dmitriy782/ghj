@@ -14,6 +14,8 @@ What my version of the cheat has:
 - Bunny Hop
 - Config System 
 
+Configs are being saved in a folder called "Electrix" in Documents.
+
 If you add/remove features from the source it might have a slight trouble loading the whole config properly but it's not that big of a deal.
 
 Nothing much has changed, I've basically:
