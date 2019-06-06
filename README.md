@@ -8,7 +8,7 @@ Full credit goes to him he still makes frequent updates on it, so you can go and
 
 My version of the cheat is basically just legit aimbot with Bunny Hop. Perfect for youtubers/streamers if you ask me. (lol zuhn)
 
-What my version of the cheat has:
+It has:
 
 - A Legit Aimbot
 - Bunny Hop
