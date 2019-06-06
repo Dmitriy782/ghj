@@ -1,4 +1,4 @@
-# electrix
+# Electrix
 An Internal CS:GO Cheat.
 
 I currently have a lot of drama and school related stuff around me and I really cannot work on this cheat anymore so, here you go.
