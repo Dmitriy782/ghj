@@ -22,7 +22,7 @@ Nothing much has changed, I've basically:
 
 - Added a new menu
 - Removed unnecessary features for the aimbot
-- Limited some features of the aimbot for example you can't use RCS X and RCS Y from Pistols to XM1014 and AWP and SSG08.
+- Limited some features of the aimbot for example you can't use RCS X and RCS Y from Pistols to shotguns and AWP and SSG08 and limited the FOV to 30.
 - And basically copy pasted the Bunny Hop and the Config System and code straight from him.
 
 But ugh yea, again thanks for all the support and help. Stay safe friends.
