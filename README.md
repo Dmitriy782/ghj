@@ -4,7 +4,7 @@ An Internal CS:GO Cheat.
 I currently have a lot of drama and school related stuff around me and I really cannot work on this cheat anymore so, here you go.
 
 The cheat is based on Daniel Krupinski's cheat (here's a link): https://github.com/danielkrupinski/Osiris
-Full credit goes to him he still makes frequent updates to it, so you can go and check it out.
+Full credit goes to him he still makes frequent updates on it, so you can go and check it out.
 
 My version of the cheat is basically just legit aimbot with Bunny Hop. Perfect for youtubers/streamers if you ask me. (lol zuhn)
 
