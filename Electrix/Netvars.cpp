@@ -33,19 +33,17 @@ void Netvars::Load(RecvTable* recvTable, const size_t offset) noexcept
 {
     for (int i = 0; i < recvTable->propCount; ++i)
 	{
-        auto& prop = recvTable->props[i];
+        	auto& prop = recvTable->props[i];
 
-        if (isdigit(prop.name[0]))
-            continue;
+        	if (isdigit(prop.name[0]))
+            		continue;
 		
-        if (prop.dataTable)
+        	if (prop.dataTable)
 			Load(prop.dataTable, prop.offset + offset);
 		else
-		{
 			std::string_view name{ prop.name };
 			std::string_view tableName{ recvTable->netTableName };
 
 			offsets[prop.name] = prop.offset + offset;
-		}
-    }
+ 	   }
 }
